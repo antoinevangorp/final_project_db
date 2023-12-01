@@ -13,7 +13,7 @@ This Python script establishes and populates tables in an SQLite database named 
 
 ## Relationships
 
-![alt text](https://github.com/antoinevangorp/final_project_db/blob/master/screen.png?raw=true)
+![image](https://github.com/antoinevangorp/final_project_db/blob/main/screen.png?raw=true)
 
 ## Instructions
 
