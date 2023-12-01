@@ -66,10 +66,10 @@ Sample data is inserted into the tables, providing a foundation for demonstratio
 
 ## Contributors
 
-- Mahe
-- Cyprien SINGEZ
-- Antoine Van Gorp
-- Clément Monteiro
+- [Cyprien SINGEZ]
+- [Antoine VAN GORP]
+- [Clément Monteiro]
+- [Mahé Faure]
 
 ## Note
 
