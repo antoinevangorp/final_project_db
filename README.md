@@ -56,9 +56,7 @@ Sample data is inserted into the tables, providing a foundation for demonstratio
 
 12. **Remaining Seats on Flights:** Calculates the remaining and taken seats on each flight.
 
-13. **Aircraft and Airport Information
-
-:** Retrieves information about aircraft, including their ID, model, company, and the airport they are stationed at.
+13. **Aircraft and Airport Information:** Retrieves information about aircraft, including their ID, model, company, and the airport they are stationed at.
 
 14. **Total Baggage Weight per Flight:** Calculates the total weight of baggage on each flight.
 
